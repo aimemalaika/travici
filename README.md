@@ -1,5 +1,5 @@
 # Andela_Cycle_12_Chalenge_One
-[![Build Status](https://travis-ci.org/aime19/Andela_Cycle_12_Chalenge_One.svg?branch=master)](https://travis-ci.org/aime19/Andela_Cycle_12_Chalenge_One)
+[![Build Status](https://travis-ci.com/aime19/learn-travis.svg?branch=master)](https://travis-ci.com/aime19/learn-travis)
 
 
 ## My Diary
